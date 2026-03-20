@@ -1,6 +1,6 @@
 # bitinspect-c
 
-**bitinspect-c** is a command-line tool written in C for inspecting raw file contents at the byte and bit level.  
+bitinspect-c is a command-line tool written in C for inspecting raw file contents at the byte and bit level.  
 It provides hex output, binary representations of each byte, and byte frequency analysis.
 
 This is a personal project to build stronger systems programming fundamentals and prepare for my upcoming CS:APP course at the University of Chicago.
